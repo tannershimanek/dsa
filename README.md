@@ -1,4 +1,4 @@
-# dsa
+# Data Structures and Algorithms
 
 Studying dsa and storing a collection of what I have learned.
 
